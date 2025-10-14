@@ -114,4 +114,4 @@ Certificaciones completadas:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeonAchataS&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LeonAchataS&theme=dark&hide_border=false)<br/>
-![LeonAchataS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAchataS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![LeonAchataS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAchataS&theme=radical&show_icons=true&hide_border=true&layout=compact)
