@@ -4,7 +4,7 @@ Actualmente trabajo como **AI/ML Engineer Junior en HannahLab**, donde participo
 
 ---
 
-## 🚀 Intereses y Objetivos
+## Intereses y Objetivos
 
 Estoy interesado en colaborar en proyectos enfocados en:
 
@@ -16,7 +16,7 @@ Estoy interesado en colaborar en proyectos enfocados en:
 
 ---
 
-## 🧠 Formación y Certificaciones
+## Formación y Certificaciones
 
 Actualmente estoy profundizando mis conocimientos en **entornos cloud y despliegue de soluciones escalables de inteligencia artificial**. Estoy preparando la certificación:
 
@@ -31,7 +31,7 @@ Certificaciones completadas:
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 - **LangChain & LangGraph**: Desarrollo de agentes conversacionales y flujos complejos de interacción.
 - **Bases de datos vectoriales (FAISS, Pinecone, etc.)**: Experiencia en RAG y gestión de embeddings para recuperación semántica.
@@ -43,7 +43,7 @@ Certificaciones completadas:
 
 ---
 
-## 💡 Experiencia Destacada
+## Experiencia Destacada
 
 - Implementación de **chatbots interactivos** para captura de datos desde usuarios y consultas automáticas a bases de datos.
 - Automatización de lectura y análisis de **documentos no estructurados** para generación automática de formularios.
@@ -53,12 +53,12 @@ Certificaciones completadas:
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Leonx_aaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonachata) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
-## 🧠 Machine Learning (ML)
+## Machine Learning (ML)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -66,7 +66,7 @@ Certificaciones completadas:
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-## 🤖 Inteligencia Artificial / Ciencia de Datos
+## Inteligencia Artificial / Ciencia de Datos
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -75,14 +75,14 @@ Certificaciones completadas:
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-## 🧩 Backend / APIs
+## Backend / APIs
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🗄️ Bases de Datos
+## Bases de Datos
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -90,19 +90,19 @@ Certificaciones completadas:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-## ⚙️ DevOps / Cloud
+## DevOps / Cloud
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🎨 Diseño
+## Diseño
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 🧰 Herramientas de Desarrollo
+## Herramientas de Desarrollo
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
