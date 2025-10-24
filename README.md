@@ -1,6 +1,6 @@
-# ¡Hola! Soy Leon Achata - AI/ML Engineer Junior
+# ¡Hola! Soy Leon Achata - AI/ML
 
-Actualmente trabajo como **AI/ML Engineer Junior en HannahLab**, donde participo en el desarrollo de soluciones inteligentes aplicadas a problemas reales utilizando técnicas de **Machine Learning**, **NLP** y **sistemas conversacionales**.
+Actualmente trabajo como **AI/ML Engineer en HannahLab**, donde participo en el desarrollo de soluciones inteligentes aplicadas a problemas reales utilizando técnicas de **Machine Learning**, **NLP** y **sistemas conversacionales**.
 
 ---
 
