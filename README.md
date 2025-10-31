@@ -1,6 +1,6 @@
-<p align="center"> # ¡Hola! Soy Leon Achata </p>
+# <p align="center">¡Hola! Soy Leon Achata </p>
 ---
-<p align="center"> ## Ingeniero Biomédico | AI Developer </p>
+## <p align="center"> Ingeniero Biomédico | AI Developer </p>
 
 Actualmente trabajo como **AI/ML Engineer en HannahLab**, donde participo en el desarrollo de soluciones inteligentes aplicadas a problemas reales utilizando técnicas de **Machine Learning**, **NLP** y **sistemas conversacionales**.
 
