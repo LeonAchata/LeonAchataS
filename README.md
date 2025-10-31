@@ -61,8 +61,6 @@ Estoy interesado en colaborar en proyectos enfocados en:
 - **Sistemas de extracción de información estructurada** desde documentos no estructurados (PDFs, facturas, pólizas, etc.)
 - **Integración de sistemas ML/AI con bases de datos relacionales y vectoriales** (PostgreSQL, MongoDB, FAISS, Pinecone).
 - **Despliegue e integración en producción mediante Docker, Kubernetes y prácticas de CI/CD.**
-- 
-
 ---
 
 ## Formación y Certificaciones
@@ -105,4 +103,5 @@ Certificaciones completadas:
 ---
 
 # 📊 GitHub Stats:
-![LeonAchataS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAchataS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![LeonAchata's Stats](https://github-readme-stats.vercel.app/api?username=LeonAchata&theme=react&show_icons=true&hide_border=true&count_private=true)
+![LeonAchata's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAchata&theme=react&show_icons=true&hide_border=true&layout=compact)
