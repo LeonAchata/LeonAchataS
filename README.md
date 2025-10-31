@@ -53,8 +53,6 @@
 
 ## Áreas de Especialización
 
-Estoy interesado en colaborar en proyectos enfocados en:
-
 - **RAG (Retrieval-Augmented Generation):** diseño e implementación de pipelines para recuperación semántica y enriquecimiento de respuestas de LLMs.
 - **Desarrollo de chatbots inteligentes y agentes conversacionales** Con LangChain, LangGraph, Ollama y LlamaIndex, integrando modelos locales y en la nube.
 - **Pipelines de Machine Learning** Para análisis de datos, entrenamiento, fine-tuning y despliegue de modelos.
