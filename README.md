@@ -1,11 +1,55 @@
 # <p align="center">¡Hola! Soy Leon Achata </p>
 ---
-## <p align="center"> Ingeniero Biomédico | AI Developer </p>
-
-Actualmente trabajo como **AI/ML Engineer en HannahLab**, donde participo en el desarrollo de soluciones inteligentes aplicadas a problemas reales utilizando técnicas de **Machine Learning**, **NLP** y **sistemas conversacionales**.
+### <p align="center"> Ingeniero Biomédico | AI Developer | Apasionado por el aprendizaje </p>
 
 ---
 ![Banner](banner/Banner%20Leon.png)
+
+<div align="center">
+  <table align="center" width="100%" border="0">
+    <tr>
+      <th width="20%">Machine Learning</th>
+      <th width="20%">Inteligencia Artificial</th>
+      <th width="20%">Backend/APIs</th>
+      <th width="20%">Bases de datos</th>
+      <th width="20%">DevOps</th>
+      <th width="20%">Cloud</th>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/scikitlearn-original-wordmark.svg" alt="Scikit-Learn" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-original.svg" alt="TensorFlow" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-original-wordmark.svg" alt="PyTorch" height="50" />
+      </td>
+      <td valign="top" align="center">
+        <!-- Logos de IA: LangChain, LangGraph, Ollama -->
+        <img style="margin:10px" src="https://lobehub.com/icons/langchain/color.svg" alt="LangChain" height="50" />
+        <img style="margin:10px" src="https://lobehub.com/icons/langgraph/color.svg" alt="LangGraph" height="50" />
+        <img style="margin:10px" src="https://lobehub.com/icons/ollama/color.svg" alt="Ollama" height="50" />
+      </td>
+      <td valign="top" align="center">
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
+      </td>
+      <td valign="top" align="center">
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/sqlite-original-wordmark.svg" alt="SQLite" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+      </td>
+      <td valign="top" align="center">
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-original-wordmark.svg" alt="Kubernetes" height="50" />
+      </td>
+      <td valign="top" align="center">
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/microsoftazure-original-wordmark.svg" alt="Azure" height="50" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## Intereses y Objetivos
