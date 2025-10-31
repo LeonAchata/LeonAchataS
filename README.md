@@ -5,7 +5,7 @@
 Actualmente trabajo como **AI/ML Engineer en HannahLab**, donde participo en el desarrollo de soluciones inteligentes aplicadas a problemas reales utilizando técnicas de **Machine Learning**, **NLP** y **sistemas conversacionales**.
 
 ---
-![Banner](banner/Banner Leon.png)
+![Banner](banner/Banner%20Leon.png)
 
 
 ## Intereses y Objetivos
