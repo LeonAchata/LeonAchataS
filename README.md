@@ -5,52 +5,126 @@
 ---
 ![Banner](banner/Banner%20Leon.png)
 
+## Tech Stack:
+
 <div align="center">
-  <table align="center" width="100%" border="0">
+  <table>
     <tr>
-      <th width="20%">Machine Learning</th>
-      <th width="20%">Inteligencia Artificial</th>
-      <th width="20%">Backend/APIs</th>
-      <th width="20%">Bases de datos</th>
-      <th width="20%">DevOps</th>
-      <th width="20%">Cloud</th>
+      <th>Machine Learning</th>
+      <th>Inteligencia Artificial</th>
+      <th>Backend/APIs</th>
+      <th>Bases de Datos</th>
+      <th>DevOps</th>
+      <th>Cloud</th>
     </tr>
     <tr>
-      <td valign="top" align="center">
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/scikitlearn-original-wordmark.svg" alt="Scikit-Learn" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-original.svg" alt="TensorFlow" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-original-wordmark.svg" alt="PyTorch" height="50" />
+      <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50" />
+        <br/>Scikit-Learn
       </td>
-      <td valign="top" align="center">
-        <!-- Logos de IA: LangChain, LangGraph, Ollama -->
-        <img style="margin:10px" src="https://lobehub.com/icons/langchain/color.svg" alt="LangChain" height="50" />
-        <img style="margin:10px" src="https://lobehub.com/icons/langgraph/color.svg" alt="LangGraph" height="50" />
-        <img style="margin:10px" src="https://lobehub.com/icons/ollama/color.svg" alt="Ollama" height="50" />
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="LangChain" width="50" height="50" />
+        <br/>LangChain
       </td>
-      <td valign="top" align="center">
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/fastapi-original-wordmark.svg" alt="FastAPI" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
+      <td align="center" width="150">
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="50" height="50" />
+        <br/>FastAPI
       </td>
-      <td valign="top" align="center">
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/sqlite-original-wordmark.svg" alt="SQLite" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
+        <br/>MongoDB
       </td>
-      <td valign="top" align="center">
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-original-wordmark.svg" alt="Kubernetes" height="50" />
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+        <br/>Docker
       </td>
-      <td valign="top" align="center">
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-        <img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/microsoftazure-original-wordmark.svg" alt="Azure" height="50" />
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
+        <br/>AWS
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" />
+        <br/>TensorFlow
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph-color.png" alt="LangGraph" width="50" height="50" />
+        <br/>LangGraph
+      </td>
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" />
+        <br/>Django
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+        <br/>MySQL
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+        <br/>Git
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50" />
+        <br/>Azure
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />
+        <br/>PyTorch
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" alt="Ollama" width="50" height="50" />
+        <br/>Ollama
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" />
+        <br/>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
+        <br/>Kubernetes
+      </td>
+      <td align="center">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" />
+        <br/>SQLite
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50" />
+        <br/>Redis
+      </td>
+      <td align="center">
+      </td>
+      <td align="center">
       </td>
     </tr>
   </table>
 </div>
-
 
 ## Intereses y Objetivos
 
@@ -100,64 +174,6 @@ Certificaciones completadas:
 - Integración de soluciones ML con **sistemas externos** mediante APIs y bases de datos.
 
 ---
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Leonx_aaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonachata) 
-
-# Tech Stack:
-
-## Machine Learning (ML)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
-## Inteligencia Artificial / Ciencia de Datos
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-## Backend / APIs
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Bases de Datos
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-## DevOps / Cloud
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Diseño
-
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## Herramientas de Desarrollo
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-
 
 # 📊 GitHub Stats:
 ![LeonAchataS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAchataS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
