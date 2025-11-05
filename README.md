@@ -25,6 +25,7 @@
       <td valign="top" align="center">
         <img style="margin: 10px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="LangChain" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langgraph-color.png" alt="LangGraph" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langsmith-color.png" alt="LangSmith" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" alt="Ollama" height="50" />
       </td>
       <td valign="top" align="center">
