@@ -68,7 +68,7 @@
 
 Actualmente estoy profundizando mis conocimientos en **entornos cloud y despliegue de soluciones escalables de inteligencia artificial**. Estoy preparando la certificación:
 
-- **AWS Certified AI Practitioner (AIF-C01)** *(En preparación)*
+- **AWS Certified Generative AI Developer - Professional** *(En preparación)*
 
 Certificaciones completadas:
 
@@ -79,6 +79,8 @@ Certificaciones completadas:
 - ✅ **Associate AI Engineer for Developers**
 - ✅ **Introduction to Amazon Bedrock**
 - ✅ **Developing Applications with LangChain**
+- ✅ **AWS Certified AI Practitioner (AIF-C01)**
+- ✅ **AWS Certified Cloud Practitioner (CLF-C02)**
 ---
 
 ## Tecnologías y Herramientas
