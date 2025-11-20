@@ -1,6 +1,6 @@
-# <p align="center">¡Hola! Soy Leon Achata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </p>
+# <p align="center">Hello! I'm Leon Achata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </p>
 ---
-### <p align="center"> Ingeniero Biomédico | AI Developer | Apasionado por el aprendizaje </p>
+### <p align="center"> Biomedical Engineer | AI Developer | Passionate about Learning </p>
 
 ---
 ![Banner](banner/Banner%20Leon.png)
@@ -10,9 +10,9 @@
   <table align="center" width="100%" border="0">
     <tr>
       <th width="16.66%">Machine Learning</th>
-      <th width="16.66%">Inteligencia Artificial</th>
+      <th width="16.66%">Artificial Intelligence</th>
       <th width="16.66%">Backend/APIs</th>
-      <th width="16.66%">Bases de Datos</th>
+      <th width="16.66%">Databases</th>
       <th width="16.66%">DevOps</th>
       <th width="16.66%">Cloud</th>
     </tr>
@@ -54,23 +54,23 @@
   </table>
 </div>
 
-## Áreas de Especialización
+## Areas of Expertise
 
-- **RAG (Retrieval-Augmented Generation):** diseño e implementación de pipelines para recuperación semántica y enriquecimiento de respuestas de LLMs.
-- **Desarrollo de chatbots inteligentes y agentes conversacionales** Con LangChain, LangGraph, Ollama y LlamaIndex, integrando modelos locales y en la nube.
-- **Pipelines de Machine Learning** Para análisis de datos, entrenamiento, fine-tuning y despliegue de modelos.
-- **Sistemas de extracción de información estructurada** desde documentos no estructurados (PDFs, facturas, pólizas, etc.)
-- **Integración de sistemas ML/AI con bases de datos relacionales y vectoriales** (PostgreSQL, MongoDB, FAISS, Pinecone).
-- **Despliegue e integración en producción mediante Docker, Kubernetes y prácticas de CI/CD.**
+- **RAG (Retrieval-Augmented Generation):** Design and implementation of pipelines for semantic retrieval and enrichment of LLM responses.
+- **Development of intelligent chatbots and conversational agents** with LangChain, LangGraph, Ollama, and LlamaIndex, integrating local and cloud models.
+- **Machine Learning pipelines** for data analysis, training, fine-tuning, and model deployment.
+- **Structured information extraction systems** from unstructured documents (PDFs, invoices, policies, etc.)
+- **Integration of ML/AI systems with relational and vector databases** (PostgreSQL, MongoDB, FAISS, Pinecone).
+- **Production deployment and integration using Docker, Kubernetes, and CI/CD practices.**
 ---
 
-## Formación y Certificaciones
+## Education and Certifications
 
-Actualmente estoy profundizando mis conocimientos en **entornos cloud y despliegue de soluciones escalables de inteligencia artificial**. Estoy preparando la certificación:
+I'm currently deepening my knowledge in **cloud environments and deployment of scalable artificial intelligence solutions**. I'm preparing for certification:
 
-- **AWS Certified Generative AI Developer - Professional** *(En preparación)*
+- **AWS Certified Generative AI Developer - Professional** *(In preparation)*
 
-Certificaciones completadas:
+Completed certifications:
 
 - ✅ **IBM Data Analyst**
 - ✅ **IBM Machine Learning**
@@ -83,25 +83,25 @@ Certificaciones completadas:
 - ✅ **AWS Certified Cloud Practitioner (CLF-C02)**
 ---
 
-## Tecnologías y Herramientas
+## Technologies and Tools
 
-- **LangChain & LangGraph**: Desarrollo de agentes conversacionales y flujos complejos de interacción.
-- **Bases de datos vectoriales (FAISS, Pinecone, etc.)**: Experiencia en RAG y gestión de embeddings para recuperación semántica.
-- **PostgreSQL**: Integración de chatbots con bases de datos para consultas estructuradas a partir de lenguaje natural.
-- **Procesamiento de documentos (PDF, facturas, pólizas)**: Extracción de información para autollenado de formularios y automatización.
-- **Pipelines de ML**: Construcción de flujos reproducibles para análisis de datos, entrenamiento, fine-tuning y evaluación de modelos.
-- **Python, Scikit-learn, Pandas, NumPy**: Análisis de datos y desarrollo de modelos de ML.
-- **APIs RESTful & JSON**: Integración de modelos y sistemas en entornos productivos.
+- **LangChain & LangGraph**: Development of conversational agents and complex interaction flows.
+- **Vector databases (FAISS, Pinecone, etc.)**: Experience in RAG and embeddings management for semantic retrieval.
+- **PostgreSQL**: Integration of chatbots with databases for structured queries from natural language.
+- **Document processing (PDF, invoices, policies)**: Information extraction for form auto-filling and automation.
+- **ML pipelines**: Building reproducible workflows for data analysis, training, fine-tuning, and model evaluation.
+- **Python, Scikit-learn, Pandas, NumPy**: Data analysis and ML model development.
+- **RESTful APIs & JSON**: Integration of models and systems in production environments.
 
 ---
 
-## Experiencia Destacada
+## Featured Experience
 
-- Implementación de **chatbots interactivos** para captura de datos desde usuarios y consultas automáticas a bases de datos.
-- Automatización de lectura y análisis de **documentos no estructurados** para generación automática de formularios.
-- Construcción de pipelines de **Retrieval-Augmented Generation (RAG)** usando bases vectoriales para enriquecer respuestas de LLMs.
-- Desarrollo de sistemas de ML para **clasificación, regresión y análisis predictivo** dentro de pipelines reproducibles.
-- Integración de soluciones ML con **sistemas externos** mediante APIs y bases de datos.
+- Implementation of **interactive chatbots** for user data capture and automated database queries.
+- Automation of reading and analysis of **unstructured documents** for automatic form generation.
+- Building **Retrieval-Augmented Generation (RAG)** pipelines using vector databases to enrich LLM responses.
+- Development of ML systems for **classification, regression, and predictive analysis** within reproducible pipelines.
+- Integration of ML solutions with **external systems** through APIs and databases.
 
 ---
 
